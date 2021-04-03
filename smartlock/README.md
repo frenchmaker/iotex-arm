@@ -1,6 +1,7 @@
 # Smartlock example on Raspberry Pi Zero W (April 2021)
 
 **A. Configure the Raspberry Pi Zero W**
+----------
 
 Let's start from the Raspberry Pi Zero W that will directly drive the smart-lock through the integrated digital I/O: we will install the Raspberry OS Lite Image and configure the I/O pins.
 
